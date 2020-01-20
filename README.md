@@ -2,8 +2,7 @@
 make code easy to read
 
 # Screen Shots
-
-
+![](./Screenshot.png)
 
 # How To Install
 [Theme Link](https://gist.githubusercontent.com/wotjd/b2387acccac0bc0fe85f5819b4adccfd/raw/c10428ea87091a2824f6bf58b2694f90010390fd/Dark-Readablility.xccolortheme)
