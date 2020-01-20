@@ -1,5 +1,5 @@
 # Dark-XCode-Theme
-make code easy to read
+make code easy to read & let your eyes comfort
 
 # Screen Shots
 ![](./Screenshot.png)
